@@ -3,10 +3,10 @@
 I'm a full-stack developer, with 6 months of commercial experience, focusing on building web applications. Always happy to learn new technologies, never bored, I wish that a day could have more than 24 hours 🤣
 In the free time I study about blockchain ⛓️, cryptocurrencies 💲 and smart contracts 📜
 
-- 🔭 I’m currently working on community driven event reminder platform: [<img alt="Remind Call" width="26px" src="https://www.remindcall.com/Logos/BlueLogo.svg" />][remindCallLink] https://www.remindcall.com 
+- 🔭 I’m currently working on community driven event reminder platform: [<img alt="Remind Call" width="26px" src="https://www.remindcall.com/Logos/BlueLogo.svg" />][remindCallLink] https://www.remindcall.com and I'm a co-author and maintainer of open source package https://www.npmjs.com/package/use-file-picker
 - 🌱 I’m currently learning everything connected to frontend
 - 👯 I’m looking to collaborate on projects that would have actual real-life usage
-- ⚡ Fun fact: I've been training Calisthenics and in the gym for 6 years now🏋️‍♂️
+- ⚡ Fun fact: I've been training Calisthenics and at the gym for 6 years now🏋️‍♂️
 
 ### My stack:
 #### <b>1. JavaScript & TypeScript<b/>  [<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][link][<img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][link]

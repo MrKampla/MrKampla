@@ -1,10 +1,11 @@
 # Hi there, I'm Kamil - aka MrKampla 👋
 ## About me
-I'm a full-stack developer, with 2 years of commercial experience, focusing on building web applications. Always happy to learn new technologies, never bored, I wish that a day could have more than 24 hours.
+I'm a full-stack developer, with almost 3 years of commercial experience, focusing on building web applications. Always happy to learn new technologies, never bored, I wish that a day could have more than 24 hours.
 In the free time I study about web3 (blockchain ⛓️, cryptocurrencies 💲 and smart contracts 📜).
 
 - 🔭 I'm a co-author and maintainer of an open source package [use-file-picker](https://www.npmjs.com/package/use-file-picker) that has over 5k downloads every week
 - 🗳️ I'm an author of Votr: a decentralized voting application built on top of Ethereum which is availible [here](https://votr-app.vercel.app/)
+- 🛠️ I've created [prisma-data-migrate](https://www.npmjs.com/package/prisma-data-migrate): a CLI tool for running data migrations with Prisma in TypeScript
 - 🔥 I'm a creator of [Resetless framework](https://www.npmjs.com/package/@resetless/core): a solution for server-side applications in Node.js with Hot Module Replacement (HMR)
 - 👯 I’m looking to collaborate on projects that would have actual real-life usage
 - ⚡ Fun fact: I've been training Calisthenics and at the gym for over 7 years now🏋️‍♂️
@@ -24,7 +25,6 @@ In the free time I study about web3 (blockchain ⛓️, cryptocurrencies 💲 an
   - Truffle
 
 #### <b> 3. AWS<b/> 
-  [<img alt="AWS" height="48px" src="https://www.techsoup.pl/media/AWS_Logo_Largest_File_HPj2eTu.png" />][link]
   - CDK
  
  

@@ -3,7 +3,7 @@
 Full-stack developer, with almost 3 years of commercial experience, focusing on building web applications. Open source advocate, maintainer of NPM packages. I'm always happy to learn new technologies, and try new solutions.
 In my free time I study about web3 (blockchain ⛓️, cryptocurrencies 💲 and smart contracts 📜).
 
-- 🔭 I'm a co-author and maintainer of an open source package [use-file-picker](https://www.npmjs.com/package/use-file-picker) that has over 10k downloads every week
+- 🔭 I'm a co-author and maintainer of an open source package [use-file-picker](https://www.npmjs.com/package/use-file-picker) that has over 10k downloads every week (and is used by Microsoft!)
 - 🗳️ I'm an author of Votr: a decentralized voting application built on top of Ethereum which is availible [here](https://votr-app.vercel.app/)
 - 🛠️ I've created [prisma-data-migrate](https://www.npmjs.com/package/prisma-data-migrate): a CLI tool for running data migrations with Prisma in TypeScript
 - 🔥 I'm a creator of [Resetless framework](https://www.npmjs.com/package/@resetless/core): a solution for server-side applications in Node.js with Hot Module Replacement (HMR)
